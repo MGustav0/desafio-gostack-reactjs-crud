@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://img.itdg.com.br/tdg/images/recipes/000/308/261/344186/344186_original.jpg?mode=crop&width=407&height=193",
+      "name": "Pizza de Presunto",
+      "price": "34.90",
+      "description": "Pizza de presunto picado com queijo gouda e mussarela.",
+      "available": false,
+      "id": 4
     }
   ]
 }
