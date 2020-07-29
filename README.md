@@ -65,7 +65,7 @@ yarn test
 
 ### Editar pratos de comida
 
-<img src=""/>
+<img src="https://github.com/MGustav0/desafio-gostack-reactjs-crud/blob/master/extras/screenshots/04_-_editarComida.png"/>
 
 ### Remover pratos de comida
 
@@ -73,7 +73,7 @@ Remove os pratos de comida clicando no ícone de lixeira.
 
 ### Alterar disponibilidade dos pratos de comida
 
-<img src=""/>
+<img src="https://github.com/MGustav0/desafio-gostack-reactjs-crud/blob/master/extras/screenshots/05_-_desabilitarComida.png"/>
 
 ## :memo: Licença
 
