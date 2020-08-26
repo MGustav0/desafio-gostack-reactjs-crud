@@ -41,9 +41,11 @@ yarn json-server server.json -p 3333
 
 ## Como rodar a aplicação
 
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn start` no seu terminal para instalar todas as dependências.
+Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
 
-Pronto! Agora basta acessar a aplicação à partir do link: http://localhost:3333/
+Execute `yarn start` para inicializar a aplicação.
+
+Pronto! Agora basta acessar a aplicação à partir do link: http://localhost:3000/
 
 ## Como rodar os testes
 
