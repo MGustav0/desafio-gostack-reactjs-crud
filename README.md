@@ -15,7 +15,7 @@ Essa será uma aplicação que irá se conectar a uma fake API em JSON, e exibir
 
 ## Status do Projeto
 
-> Em desenvolvimento :warning:
+> Finalizado ✔️
 
 ## Template da aplicação
 
